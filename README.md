@@ -21,6 +21,6 @@ As informações sobre a cidade, incluindo o país e o clima atual, serão exibi
 ## Autor
 Eu :), com ajuda de alguns vídeos do youtube
 
-### Obs: Aparente a api que eu utilizava para mostrar a bandeira do país não está disponível, prometo consertar o mais breve possível.
+### Obs: Aparentemente a api que eu utilizava para mostrar a bandeira do país não está disponível, prometo consertar o mais breve possível.
 
 ![](tela.png)
