@@ -7,10 +7,11 @@ Pesquisar por nome de cidade usando a caixa de pesquisa
 Exibir informações sobre a cidade pesquisada, incluindo o país e o clima atual
 
 ## Tecnologias usadas
-HTML: para a estrutura básica do aplicativo
-CSS: para a estilização da página
-JavaScript: para o processamento da pesquisa e a exibição das informações sobre a cidade
-OpenWeather API: para obter informações do clima atual da cidade pesquisada
+- HTML: para a estrutura básica do aplicativo
+- CSS: para a estilização da página
+- JavaScript: para o processamento da pesquisa e a exibição das informações sobre a cidade
+- OpenWeather API: para obter informações do clima atual da cidade pesquisada
+- countryflagsapi.com: Para onter informações sobre as bandeiras dos países
 
 ## Como Usar
 Abra o aplicativo em um navegador da web
